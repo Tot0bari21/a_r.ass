@@ -1,6 +1,6 @@
 
 /* 
-     * Autor: Adalberto (Toto) Sánchez - 2021.-.-
+     * Autor: Adalberto (Toto) Sánchez (adal.panda.20@gmail.com) - 2021.-.-
      * Dispositivo: ATmega168  - 28 pines DIP.-.-
      * Programas utilizados:
        - Editor de texto: CudaText.
