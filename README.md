@@ -1,4 +1,3 @@
-# a_r.assb
 The MIT License (MIT)
 Copyright (c) 2014 Kodowa, Inc. & Light Table contributors
 
